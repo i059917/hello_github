@@ -7,6 +7,12 @@ public class HelloGithub {
 		System.out.println("Hello Github");
 		
 		System.out.println("Add another line");
+		
+		System.out.println("Add another line at testing");
+		
+		System.out.println("Add another 2 line at testing");
+		
+		System.out.println("Add another 3 line at testing");
 	}
 
 }
